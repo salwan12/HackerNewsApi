@@ -3,6 +3,7 @@
 A .NET Core application that interacts with the HackerNews API.
 
 ## Table of Contents
+
 - [Introduction](#introduction)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
@@ -11,7 +12,6 @@ A .NET Core application that interacts with the HackerNews API.
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
 - [Testing](#testing)
-
 
 ## Introduction
 
@@ -36,7 +36,7 @@ Follow these steps to get your app up and running:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/hackernews-api.git
+git clone https://github.com/salwan12/HackerNewsApi.git
 
 # Navigate to the project directory
 cd hackernews-api
@@ -52,3 +52,4 @@ dotnet run
 
 # Run tests
 dotnet test
+```
